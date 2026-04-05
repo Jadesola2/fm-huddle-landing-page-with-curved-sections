@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repository](https://github.com/Jadesola2/fm-huddle-landing-page-with-curved-sections)
+- Live Site URL: [Github Pages](https://jadesola2.github.io/fm-huddle-landing-page-with-curved-sections/)
 
 ## My process
 
@@ -48,7 +48,7 @@ Users should be able to:
 
 ### What I learned
 
-For this project, I learnt to implement responsive for a webpage and to use the CSS width property well.
+For this project, I learnt to implement responsive grids for a webpage, provide alternative images and to use the CSS width property well.
 
 
 
