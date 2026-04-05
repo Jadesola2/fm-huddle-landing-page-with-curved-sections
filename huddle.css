@@ -3,6 +3,11 @@ picture img{
     height: auto;
     display: block;
 }
+
+input{
+    border:none;
+}
+
 @media (max-width: 768px){
     .contenta,.contentd, .contentb, .navdiv2{
         flex-direction: column;
